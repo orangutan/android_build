@@ -51,6 +51,20 @@ PRODUCT_PACKAGES += \
     vibrator.default \
     power.default
 
+PRODUCT_PACKAGES += \
+    com.github.yeriomin.yalpstore_43 \
+    com.simplemobiletools.filemanager_51 \
+    com.simplemobiletools.gallery_185 \
+    dev.ukanth.ufirewall_15992 \
+    FDroid \
+    net.sourceforge.opencamera_62 \
+    org.adaway_61 \
+    org.fdroid.fdroid.privileged_2080 \
+    org.mozilla.klar_19 \
+    org.smssecure.smssecure_208 \
+    ws.xsoh.etar_15
+    
+
 PRODUCT_COPY_FILES := \
         frameworks/av/media/libeffects/data/audio_effects.conf:system/etc/audio_effects.conf
 
