@@ -3,3 +3,6 @@
 blueprint/
 kati/
 soong/
+target/product/security/verity.pk8
+target/product/security/verity.x509.pem
+target/product/security/verity_key
