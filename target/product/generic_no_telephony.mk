@@ -53,14 +53,12 @@ PRODUCT_PACKAGES += \
 
 PRODUCT_PACKAGES += \
     com.github.yeriomin.yalpstore_43 \
-    com.simplemobiletools.filemanager_51 \
-    com.simplemobiletools.gallery_185 \
-    dev.ukanth.ufirewall_15992 \
+    com.simplemobiletools.filemanager_56 \
+    com.simplemobiletools.gallery_198 \
     FDroid \
     net.sourceforge.opencamera_62 \
-    org.adaway_61 \
     org.fdroid.fdroid.privileged_2080 \
-    org.mozilla.klar_19 \
+    org.mozilla.klar_22 \
     org.smssecure.smssecure_208 \
     ws.xsoh.etar_15
     
