@@ -52,15 +52,12 @@ PRODUCT_PACKAGES += \
     power.default
 
 PRODUCT_PACKAGES += \
-    com.github.yeriomin.yalpstore_43 \
-    com.simplemobiletools.filemanager_56 \
-    com.simplemobiletools.gallery_198 \
-    FDroid \
-    net.sourceforge.opencamera_62 \
-    org.fdroid.fdroid.privileged_2080 \
-    org.mozilla.klar_22 \
+    F-DroidPrivilegedExtension \
+    YalpStore \
+    firefoxKlar \
     org.smssecure.smssecure_208 \
-    ws.xsoh.etar_15
+    privacybrowser \
+    F-Droid
     
 
 PRODUCT_COPY_FILES := \
