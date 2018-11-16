@@ -56,6 +56,7 @@ PRODUCT_PACKAGES += \
     YalpStore \
     firefoxKlar \
     org.smssecure.smssecure_208 \
+    net.sourceforge.opencamera_65 \
     privacybrowser \
     F-Droid
     
