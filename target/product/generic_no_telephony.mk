@@ -58,6 +58,7 @@ PRODUCT_PACKAGES += \
     org.smssecure.smssecure_208 \
     net.sourceforge.opencamera_65 \
     privacybrowser \
+    phonograph \
     F-Droid
     
 
