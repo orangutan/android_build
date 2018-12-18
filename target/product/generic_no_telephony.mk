@@ -41,6 +41,16 @@ PRODUCT_PACKAGES += \
     screenrecord
 
 PRODUCT_PACKAGES += \
+    F-DroidPrivilegedExtension \
+    YalpStore \
+    firefoxKlar \
+    org.smssecure.smssecure_208 \
+    net.sourceforge.opencamera_65 \
+    privacybrowser \
+    phonograph \
+    F-Droid
+    
+PRODUCT_PACKAGES += \
     librs_jni \
     libvideoeditor_jni \
     libvideoeditor_core \
