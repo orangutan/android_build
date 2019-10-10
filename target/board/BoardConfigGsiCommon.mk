@@ -10,9 +10,6 @@ TARGET_USERIMAGES_USE_EXT4 := true
 # we explicit specify this need below (even though it's the current default).
 TARGET_USERIMAGES_SPARSE_EXT_DISABLED := false
 
-# Enable dyanmic system image size and reserved 64MB in it.
-BOARD_SYSTEMIMAGE_PARTITION_RESERVED_SIZE := 67108864
-
 # Android Verified Boot (AVB):
 #   1) Sets BOARD_AVB_ENABLE to sign the GSI image.
 #   2) Sets AVB_VBMETA_IMAGE_FLAGS_VERIFICATION_DISABLED (--flag 2) in

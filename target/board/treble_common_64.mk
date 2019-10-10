@@ -18,3 +18,6 @@ include build/make/target/board/treble_common.mk
 
 # Enable 64-bits binder
 TARGET_USES_64_BIT_BINDER := true
+
+# Partition size is default 1.5GB (1536MB) for 64 bits projects
+BOARD_SYSTEMIMAGE_PARTITION_SIZE := 1610612736

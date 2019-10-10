@@ -42,12 +42,12 @@ PRODUCT_PACKAGES += \
 
 PRODUCT_PACKAGES += \
     F-DroidPrivilegedExtension \
-    YalpStore \
     firefoxKlar \
-    org.smssecure.smssecure_208 \
-    net.sourceforge.opencamera_65 \
+    org.smssecure.smssecure_145 \
+    net.sourceforge.opencamera_73 \
     privacybrowser \
     phonograph \
+    com.aurora.store_12 \
     F-Droid
     
 PRODUCT_PACKAGES += \
