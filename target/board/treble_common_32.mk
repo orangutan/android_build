@@ -18,3 +18,7 @@ include build/make/target/board/treble_common.mk
 
 # Legacy GSI keeps 32 bits binder for 32 bits CPU Arch
 TARGET_USES_64_BIT_BINDER := false
+
+# Partition size defaults to 1 GB (1024 MB) for 32-bit products. It can
+# be overwritten in specific BoardConfig.mk, if so desired.
+BOARD_SYSTEMIMAGE_PARTITION_SIZE := 1073741824
