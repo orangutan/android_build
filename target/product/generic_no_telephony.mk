@@ -47,7 +47,7 @@ PRODUCT_PACKAGES += \
     net.sourceforge.opencamera_73 \
     privacybrowser \
     phonograph \
-    com.aurora.store_12 \
+    com.aurora.store_13 \
     F-Droid
     
 PRODUCT_PACKAGES += \
